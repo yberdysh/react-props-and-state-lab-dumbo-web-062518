@@ -6,7 +6,7 @@ const allPets = [
     age: 4,
     weight: 1,
     name: 'Trident',
-    isAdopted: false,
+    isAdopted: false
   },
   {
     id: '2c902312-dfa3-446f-8b4b-5e115170d807',
@@ -15,7 +15,7 @@ const allPets = [
     age: 3,
     weight: 1,
     name: 'Teddy',
-    isAdopted: false,
+    isAdopted: false
   },
   {
     id: '6057de4f-6725-4b9f-a0b1-1f3bd3ad04a6',
@@ -24,7 +24,7 @@ const allPets = [
     age: 2,
     weight: 5,
     name: 'Hemingway',
-    isAdopted: false,
+    isAdopted: false
   },
   {
     id: 'a7c8b608-0d39-401b-a693-1bc882f21425',
@@ -43,6 +43,7 @@ const allPets = [
     weight: 3,
     name: 'Silent',
     isAdopted: false,
+    name: "Fido"
   },
   {
     id: 'ffc4663d-71f3-4ad9-8242-973756c8b8b1',
@@ -52,6 +53,7 @@ const allPets = [
     weight: 5,
     name: 'Wisdom',
     isAdopted: false,
+    name: "Doge"
   },
   {
     id: '9750e959-f8ef-465f-9e13-16323454dc1f',
@@ -61,6 +63,7 @@ const allPets = [
     weight: 5,
     name: 'Hemingway',
     isAdopted: false,
+    name: "Felix"
   },
   {
     id: '24064151-0d34-4b9e-ba29-d4289bda8fe6',
@@ -70,6 +73,7 @@ const allPets = [
     weight: 4,
     name: 'Radar',
     isAdopted: false,
+
   },
   {
     id: '18854fc7-00c9-4d6a-b3c6-bfd9a06ce1e7',
