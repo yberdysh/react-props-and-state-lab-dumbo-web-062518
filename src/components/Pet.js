@@ -27,6 +27,7 @@ class Pet extends React.Component {
           Adopt pet
         </button>
       )}
+    {/*passing () => because it needs to be an uninvoked function, but without () => it will be invoked with the argument*/}
         </div>
       </div>
     )
